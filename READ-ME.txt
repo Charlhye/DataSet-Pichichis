@@ -1,0 +1,16 @@
+Descripción de las columnas:
+1 - Inicio de la temporada
+2 - Fin de la temporada
+3 - Equipos participantes
+4 - # total de goles en la liga
+5 - Equipo campeón de Liga
+6 - Nombre del jugador
+7 - Nombre alterno del jugador
+8 - Nacionalidad del jugador
+9 - Fecha de nacimiento del jugador
+10 - Edad al ganar el pichichi (en años)
+11 - Equipo con el que ganó el pichichi
+12 - Fecha en la que fue fichado
+13 - Tiempo en activo para el equipo (en años)
+14 - Fue campeón de liga?
+15 - # goles anotados
